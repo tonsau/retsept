@@ -1,0 +1,58 @@
+body {
+    background-color: bisque;
+}
+
+.pealkiri {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: blue;
+}
+
+.pilt {
+    width: 400px;
+    display: block;
+    margin: auto;
+    padding-bottom: 1rem;
+    border-radius: 50%;
+    
+}
+
+.koostisosad {
+    margin: 0 auto;
+}
+
+.koostisosadetabel {
+    border: 1px solid black;
+    padding-bottom: 1rem;
+   margin: auto;
+    
+}
+
+.alapealkiri {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: coral;
+}
+
+.valmistamine {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.link {
+    text-align: center;
+    color: blue;
+}
+
+.pilt2 {
+    width: 200px;
+    display: block;
+    margin: auto;
+    padding-top: 2rem;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 20px;
+}
